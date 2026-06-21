@@ -64,7 +64,7 @@ supply-chain-analytics/
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](04_Visualizations/Dashboard.png)
+![Dashboard](PowerBI%20Dashboard.png)
 
 ---
 
